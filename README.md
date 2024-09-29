@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
-<h1 align="center">Hi 👋, I'm Humna Imran</h1>
-<h3 align="center">I am a student</h3>
+<h1 align="center">Hi 👋My Name is Humna Imran</h1>
+<h3 align="center">I am a student at The University of Faisalabad (2023 - 2027)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamnasz" alt="hamnasz" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **DSA, Python, C++, High Level Programming**
+
+- 🎓 I'm Studying **Artificial Intelligence**
 
 - 💬 Ask me about **Typescript, JavaScript, NextJS**
 
