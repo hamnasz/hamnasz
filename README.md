@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋My Name is Humna Imran</h1>
 <h3 align="center">I am a student at The University of Faisalabad (2023 - 2027)</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 🔭 I’m currently working on **Machine Learning**
 
