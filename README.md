@@ -1,7 +1,7 @@
 # Hi all, I'm Humna Imran! 👋
 ### A Developer, and Student.
  
- - Student at [PIAIC(Presidential Initiative for Artificial Intelligence and Computing)](piaic.org)
+ - Student at The University Of Faisalabad
  - Studying Artificial Intelligence
  - Machine Learning
            
