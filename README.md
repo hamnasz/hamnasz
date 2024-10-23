@@ -8,7 +8,7 @@
      
 ## My Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhurairah127&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamnasz&theme=transparent)](https://git.io/streak-stats)
 
 
 
