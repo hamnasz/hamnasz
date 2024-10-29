@@ -1,4 +1,4 @@
-# Konnichiwa, I'm Humna Imran! 👋
+# Assalam o Alaikum, I'm Humna Imran! 👋
 ### A Developer, and Student.
  
  - Student at The University Of Faisalabad
