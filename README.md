@@ -6,7 +6,7 @@
  - Machine Learning
            
      
-## My Consistency Graph:
+## My Consistency Graph :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamnasz&theme=transparent)](https://git.io/streak-stats)
 
