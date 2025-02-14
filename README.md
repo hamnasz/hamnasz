@@ -1,59 +1,43 @@
-import React from "react";
+# Assalam o Alaikum, I'm Humna Imran! 👋
+### A Developer, and Student.
+ 
+ - Student at The University Of Faisalabad
+ - Studying Artificial Intelligence
+ - Machine Learning
+           
+     
+## My Consistency Graph :
 
-const Profile: React.FC = () => {
-  return (
-    <div className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-3xl font-bold">Assalam o Alaikum, I'm Humna Imran! 👋</h1>
-      <h2 className="text-xl mt-2">A Developer, and Student.</h2>
-      
-      <ul className="list-disc pl-5 mt-4">
-        <li>Student at The University Of Faisalabad</li>
-        <li>Studying Artificial Intelligence</li>
-        <li>Machine Learning</li>
-      </ul>
-      
-      <h2 className="text-2xl font-semibold mt-6">My Consistency Graph:</h2>
-      <a href="https://git.io/streak-stats">
-        <img
-          src="https://streak-stats.demolab.com?user=hamnasz&theme=transparent"
-          alt="GitHub Streak"
-          className="mt-4"
-        />
-      </a>
-      
-      <h2 className="text-2xl font-semibold mt-6 flex items-center">
-        🤖 Artificial Intelligence
-      </h2>
-      <div className="flex flex-wrap gap-2 mt-2">
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-        <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-        <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://badgen.net/badge/matplotlib/MATPLOTLIB?label=&color=black&labelColor=black&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      </div>
-      
-      <h2 className="text-2xl font-semibold mt-6 flex items-center">
-        🕸️ Web Dev Tools
-      </h2>
-      <div className="flex flex-wrap gap-2 mt-2">
-        {["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Bootstrap", "Material UI", "TailwindCSS"].map((tech) => (
-          <img
-            key={tech}
-            src={`https://img.shields.io/badge/${tech.replace(" ", "%20")}-blue?style=for-the-badge&logo=${tech.toLowerCase()}&logoColor=white`}
-            alt={tech}
-          />
-        ))}
-      </div>
-      
-      <h2 className="text-2xl font-semibold mt-6 flex items-center">
-        ✏️ Design
-      </h2>
-      <div className="flex flex-wrap gap-2 mt-2">
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-      </div>
-    </div>
-  );
-};
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamnasz&theme=transparent)](https://git.io/streak-stats)
 
-export default Profile;
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **Artificial Intelligence**
+
+![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://badgen.net/badge/matplotlib/MATPLOTLIB?label=&color=black&labelColor=black&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" alt="Spider Web" width="25" height="25" /> **WEB DEV TOOLS**
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://github.com/hamnasz)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://github.com/hamnasz)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://github.com/hamnasz)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")](https://github.com/hamnasz)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React js")](https://github.com/hamnasz)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://github.com/hamnasz)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")](https://github.com/hamnasz)
+[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/hamnasz)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/hamnasz)
+<br />
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Pen" width="25" height="25" /> **Design**
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
