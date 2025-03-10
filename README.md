@@ -5,12 +5,6 @@
  - Studying Artificial Intelligence
  - Machine Learning
            
-     
-## My Consistency Graph :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamnasz&theme=transparent)](https://git.io/streak-stats)
-
-
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **Artificial Intelligence**
