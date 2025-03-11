@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4999&pause=998&color=F7F7F7&width=800&height=90&lines=Assalam+o+Alaikum%2C+I'm+Humna+Imran!+%F0%9F%91%8B;A+Developer+and+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=446&lines=Assalam+o+Alaikum%2C+I+am+Humna+Imran;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85%D8%8C+%D8%A3%D9%86%D8%A7+%D8%AD%D9%85%D9%86%D8%A7+%D8%B9%D9%85%D8%B1%D8%A7%D9%86;Bonjour%2C+je+suis+Humna+Imran;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AF+%E3%81%AF%E3%82%80%E3%81%AA+%E3%81%84%E3%82%80%E3%82%89%E3%82%93+%E3%81%A7%E3%81%99;Ol%C3%A1%2C+eu+sou+Humna+Imran;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85%D8%8C+%D9%85%DB%8C%DA%BA+%D8%AD%D9%85%D9%86%D8%A7+%D8%B9%D9%85%D8%B1%D8%A7%D9%86+%DB%81%D9%88%DA%BA)](https://git.io/typing-svg)
  
  - Student at The University Of Faisalabad
  - Studying Artificial Intelligence
