@@ -1,5 +1,4 @@
-# Assalam o Alaikum, I'm Humna Imran! 👋
-### A Developer, and Student.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4999&pause=998&color=F7F7F7&width=800&height=90&lines=Assalam+o+Alaikum%2C+I'm+Humna+Imran!+%F0%9F%91%8B;A+Developer+and+Student.)](https://git.io/typing-svg)
  
  - Student at The University Of Faisalabad
  - Studying Artificial Intelligence
@@ -7,7 +6,7 @@
            
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **Artificial Intelligence**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **Artiicial Intelligence**
 
 ![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
