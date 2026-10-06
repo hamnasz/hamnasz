@@ -107,7 +107,7 @@ class HumnaImran:
 
 <img src="https://streak-stats.demolab.com?user=hamnasz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamnasz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/7C3AED/hamnasz" alt="Contribution calendar" width="90%" />
 
 </div>
 
